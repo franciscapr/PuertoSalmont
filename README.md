@@ -27,14 +27,14 @@ Encapsulamiento: Para proteger los datos privados mediante getters y setters.
 📁 PuertoSalmontt/
 ├── .idea/
 ├── src/
-│   ├── app/         # Contiene la clase principal para ejecutar y probar el sistema.
+│   ├── app/         
 │   │   └── Main.java
-│   └── model/       # Contiene las clases del dominio y el modelo de negocio.
+│   └── model/       
 │       ├── Direccion.java
 │       ├── Empleado.java
 │       └── Persona.java
 ├── .gitignore
-└── README.md        # Documentación del proyecto.
+└── README.md       
 ````
 
 ---
