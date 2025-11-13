@@ -19,6 +19,7 @@ Herencia: Para la reutilización de atributos (la clase Empleado extiende a la c
 Composición: Para modelar relaciones claras (la clase Empleado contiene un objeto Direccion).
 
 Encapsulamiento: Para proteger los datos privados mediante getters y setters.
+
 ---
 
 ## 🧱 Estructura general del proyecto
@@ -59,6 +60,7 @@ git clone https://github.com/franciscapr/PuertoSalmont.git
 ---
 
 **Repositorio GitHub:** https://github.com/franciscapr/PuertoSalmont.git
+
 **Fecha de entrega:** 10/11/2025
 
 ---
