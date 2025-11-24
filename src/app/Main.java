@@ -10,7 +10,6 @@ public class Main {
         System.out.println("=========================================");
         System.out.println("  Sistema de Gestión Salmontt - INICIADO ");
         System.out.println("=========================================");
-
         GestorSalmontt sistema = new GestorSalmontt();
 
         // Llamamos al método que carga los datos
