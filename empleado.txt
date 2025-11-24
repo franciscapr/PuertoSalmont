@@ -1,0 +1,3 @@
+Juan Carlos Bodoque;18.123.456-K;101;Jefe de Producción;Calle del Salmón;1500;Puerto Montt
+Pata Patana;19.876.543-2;205;Encargada de Logística;Avenida de los Lagos;45;Osorno
+Mario Hugo;15.777.888-0;310;Analista de Calidad;Pasaje Reloncaví;8;Puerto Varas

@@ -24,18 +24,21 @@ Encapsulamiento: Para proteger los datos privados mediante getters y setters.
 ## 🧱 Estructura general del proyecto
 
 ```plaintext
-📁 PuertoSalmontt/
-├── .idea/
+📁 PuertoSalmont/
 ├── src/
-│   ├── app/         # Contiene la clase principal para ejecutar y probar el sistema.
+│   ├── app/         # Contiene la clase principal para la ejecución.
 │   │   └── Main.java
-│   └── model/       # Contiene las clases del dominio y el modelo de negocio.
-│       ├── Direccion.java
-│       ├── Empleado.java
-│       └── Persona.java
-├── .gitignore
-└── README.md        # Documentación del proyecto.
-````
+│   ├── model/       # Clases de Dominio (Entidades de la empresa).
+│   │   ├── Direccion.java
+│   │   ├── Empleado.java (Herencia de Persona, Composición de Direccion)
+│   │   └── Persona.java
+│   ├── service/     # Lógica de Negocio y Gestión de Datos.
+│   │   └── GestorSalmontt.java (Maneja la colección, la carga de archivos y las búsquedas)
+│   └── util/        # Utilidades y Validaciones.
+│       └── Validador.java (Implementa try-catch para validación numérica)
+└── empleado.txt     # Archivo de texto con los registros de empleados.
+```
+
 
 ---
 
