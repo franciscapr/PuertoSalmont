@@ -59,7 +59,7 @@ git clone https://github.com/franciscapr/PuertoSalmont.git
 ---
 
 **Repositorio GitHub:** https://github.com/franciscapr/PuertoSalmont.git
-**Fecha de entrega:** 10/11/2025
+**Fecha de entrega:** 23/11/2025
 
 ---
 
